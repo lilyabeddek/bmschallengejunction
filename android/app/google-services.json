@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507934743849",
+    "project_id": "bmsbdd-d71b8",
+    "storage_bucket": "bmsbdd-d71b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507934743849:android:d26cbc81ba82a67aaf2b38",
+        "android_client_info": {
+          "package_name": "com.example.bmschallengejunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507934743849-s8lmkn03ttqdq4kpht9oe4dvdnjr1sav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3DZuyMIUJRxwgzXeIZMWegXkYrr9vPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507934743849-s8lmkn03ttqdq4kpht9oe4dvdnjr1sav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
